@@ -1,0 +1,7 @@
+#ifndef FALLINGSAND_PARTICLEMAP_H
+#define FALLINGSAND_PARTICLEMAP_H
+
+#include "Particle.h"
+
+
+#endif //FALLINGSAND_PARTICLEMAP_H
